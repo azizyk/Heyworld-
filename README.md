@@ -3,5 +3,6 @@ My first repository
 
 
 Hi there,
- its me azy who really want to code and learn to create!
+ Its me azy who really want to code and learn to create!
  
+Thanks In Advance
